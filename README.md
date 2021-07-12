@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RichardD3V 'Ricardo Enriquez'
-- 👀 I’m interested in Python and to learn more about and in advance get a job oportunity.
-- 🌱 I’m currently learning SQL, Python and Jupyter. 
-- 💞️ I’m looking to collaborate on any kind of projects, just to get practice and knowledge about the real world, invite me please.
+- 👀 I’m interested in Java and Python to develop better backend.
+- 🌱 I’m currently learning SpringBoot. 
+- 💞️ I’m looking to collaborate on any kind of projects, just to get more practice and knowledge about the real world.
 - 📫 Send me an email or inbox msg and we can stay in touch.
 
 <!---
